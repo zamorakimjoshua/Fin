@@ -76,12 +76,12 @@ namespace ClassroomManagementData
         {
             int success;
 
-            string updateStatement = $"UPDATE integs SET roomNum = @roomNum WHERE ign = @ign";
+            string updateStatement = $"UPDATE integs SET roomNum = @roomNum WHERE prof = @prof";
             SqlCommand updateCommand = new SqlCommand(updateStatement, sqlConnection);
             sqlConnection.Open();
 
             updateCommand.Parameters.AddWithValue("@roomNum", roomNum);
-            updateCommand.Parameters.AddWithValue("@peof", prof);
+            updateCommand.Parameters.AddWithValue("@prof", prof);
 
             success = updateCommand.ExecuteNonQuery();
 
@@ -95,7 +95,7 @@ namespace ClassroomManagementData
         {
             int success;
 
-            string deleteStatement = $"DELETE FROM integs WHERE ign = @prof";
+            string deleteStatement = $"DELETE FROM integs WHERE prof = @prof";
             SqlCommand deleteCommand = new SqlCommand(deleteStatement, sqlConnection);
             sqlConnection.Open();
 
