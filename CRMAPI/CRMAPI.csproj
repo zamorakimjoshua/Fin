@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AccountManagementData\ClassroomManagementData.csproj" />
+    <ProjectReference Include="..\..\AccountManagementModels\ClassroomManagementModels.csproj" />
+    <ProjectReference Include="..\..\AccountManagementServices\ClassroomManagementServices.csproj" />
+    <ProjectReference Include="..\Client\Client.csproj" />
+  </ItemGroup>
+
+</Project>
