@@ -1,0 +1,12 @@
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\bin\Debug\net7.0\ParkingManagementModels.deps.json
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\bin\Debug\net7.0\ParkingManagementModels.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\bin\Debug\net7.0\ParkingManagementModels.pdb
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.AssemblyInfoInputs.cache
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.AssemblyInfo.cs
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.sourcelink.json
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\refint\ParkingManagementModels.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ParkingManagementModels.pdb
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementModels\obj\Debug\net7.0\ref\ParkingManagementModels.dll
