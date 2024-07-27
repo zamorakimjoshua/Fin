@@ -1,0 +1,16 @@
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\bin\Debug\net7.0\ParkingManagementData.deps.json
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\bin\Debug\net7.0\ParkingManagementData.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\bin\Debug\net7.0\ParkingManagementData.pdb
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\bin\Debug\net7.0\ParkingManagementModels.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\bin\Debug\net7.0\ParkingManagementModels.pdb
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.csproj.AssemblyReference.cache
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.AssemblyInfoInputs.cache
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.AssemblyInfo.cs
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.sourcelink.json
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingM.71C4BA06.Up2Date
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\refint\ParkingManagementData.dll
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ParkingManagementData.pdb
+C:\Users\Angelica\Source\Repos\Kurt-sParkingMS\AccountManagementData\obj\Debug\net7.0\ref\ParkingManagementData.dll
