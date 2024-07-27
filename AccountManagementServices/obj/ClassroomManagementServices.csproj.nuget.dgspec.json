@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementServices\\ClassroomManagementServices.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\ClassroomManagementData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\ClassroomManagementData.csproj",
+        "projectName": "ClassroomManagementData",
+        "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\ClassroomManagementData.csproj",
+        "packagesPath": "C:\\Users\\Angelica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj": {
+                "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj",
+        "projectName": "ClassroomManagementModels",
+        "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj",
+        "packagesPath": "C:\\Users\\Angelica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementServices\\ClassroomManagementServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementServices\\ClassroomManagementServices.csproj",
+        "projectName": "ClassroomManagementServices",
+        "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementServices\\ClassroomManagementServices.csproj",
+        "packagesPath": "C:\\Users\\Angelica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\ClassroomManagementData.csproj": {
+                "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementData\\ClassroomManagementData.csproj"
+              },
+              "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj": {
+                "projectPath": "C:\\Users\\Angelica\\source\\repos\\ZamoraInteg\\AccountManagementModels\\ClassroomManagementModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
